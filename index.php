@@ -21,7 +21,7 @@
     <link rel="stylesheet" type="text/css" href="css/colors/green.css" />
     <link rel="stylesheet" type="text/css" href="css/style.css" />
     <link rel="stylesheet" type="text/css" href="res-mbostock1/css/style.css">
-    <link rel="stylesheet" type="text/css" href="res-dragdrop/dndTree.css">
+    <link rel="stylesheet" type="text/css" href="res-dragdrop/dndtree.css">
     <!-- CSS | Google Fonts -->
     <script language="JavaScript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
     <link href='http://fonts.googleapis.com/css?family=Montserrat:400' rel='stylesheet' type='text/css'>
